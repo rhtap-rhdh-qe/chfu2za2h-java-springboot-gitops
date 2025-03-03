@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: chfu2za2h-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/chfu2za2h-java-springboot
